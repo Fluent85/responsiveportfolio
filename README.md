@@ -10,7 +10,7 @@ Design a martketable employer competitive portfolio that demostrates my skills a
 
 Simply click the link below.
 
-
+https://fluent85.github.io/responsiveportfolio/
 
 ## Issues and future development
 
