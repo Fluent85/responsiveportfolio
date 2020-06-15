@@ -4,7 +4,7 @@ This is my first attempt at building my own portfolio.  I will be making changes
  
 ## Motivation
 
-Design a martketable employer competitive portfolio that demostrates my skills as a developer.  
+Design a martketable employer competitive portfolio that demonstrates my skills as a developer.  
 
 ## How to use? 
 
